@@ -1,0 +1,14 @@
+{
+  "name": "Duda AnkiCards AI",
+  "short_name": "Duda AnkiCards",
+  "description": "Flashcards de Medicina gerados com IA a partir de PDFs e apostilas.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f4ff",
+  "theme_color": "#6652cc",
+  "icons": [
+    {"src":"/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
